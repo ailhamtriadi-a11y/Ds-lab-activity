@@ -77,7 +77,7 @@ p.C
 Jawaban : 10. Array Dikarenakan Array hanya mencari bagian tersebut aja agar bisa sampai ke tujuan
 sedangkan linkedlist harus dikunjungi satu persatu elemen yang dicari sebelum sampai ke tujuan 
 
-11 Linkedlist dikarenakan array semisal ada angka yang ingin dimasukkan maka angka yang dibelakangnya
+11. Linkedlist dikarenakan array semisal ada angka yang ingin dimasukkan maka angka yang dibelakangnya
 juga harus mundur yang dimana tidak sebagus linkedlist dikarenan mereka itu tinggal mengubah referensi aja 
 
 
